@@ -6,3 +6,8 @@
 ###### Header 6
 all the headers
 ![Image of Yaktocat!](https://octodex.github.com/images/yaktocat.png)
+```js
+
+console.log('hello world')
+
+```
